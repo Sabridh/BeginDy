@@ -1,0 +1,19 @@
+/* Standaard licht thema */
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+
+.dark-mode a {
+    color: lightblue;
+}
